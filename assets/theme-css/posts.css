@@ -86,6 +86,7 @@ div.MathJax_Display {
 }
 
 .read-more {
+  display: inline;
   margin-top: 0.5em;
   font-variant-caps: small-caps;
   font-style: italic;
